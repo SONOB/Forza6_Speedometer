@@ -176,13 +176,3 @@ forza-speedometer/
 - 여러 창 크기에서의 계기판·재생바 배치
 
 실제 FH6 주행, Windows 듀얼 모니터 전환, 게임 전체 화면에서의 단축키, 다른 PC의 MP3 재생 호환성은 별도 확인이 필요합니다. 테스트 파일과 가상 주행 데모는 현재 배포 구성에 포함하지 않습니다.
-
-## 라이선스
-
-현재 라이선스는 지정되지 않았습니다. 오픈소스 라이선스에 따른 사용·수정·재배포 허가를 제공하려면 별도의 `LICENSE` 파일을 추가해야 합니다.
-
-## 참고 자료
-
-- [Forza Horizon 6 Data Out 공식 문서](https://support.forza.net/hc/en-us/articles/51744149102611-Forza-Horizon-6-Data-Out-Documentation)
-- [Python tkinter 문서](https://docs.python.org/3/library/tkinter.html)
-- [Windows 모니터 열거 API](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-enumdisplaymonitors)
